@@ -181,4 +181,4 @@ For reading lines from the block text files i used this geeks for geeks article 
 
 This project was super interesting and absolutely tested my ability and personal resolve. This is my first ever coding project. I have not done a real workable project ever. The closest I have ever gotten was simple javascript games in highschool. I am honestly really proud of this and never thought I could be able to complete all three phases. 
 
-Thank you for such a great and challanging project. I would be lying if there were moments were I was upset at the difficulty of the assignment given my limited experience with coding. I look forward to cleaning it up and having my first ever project on my github for my resume!
+Thank you for such a great and challanging project. I would be lying if there were moments were I was upset at the difficulty of the assignment given my limited experience with coding. 
